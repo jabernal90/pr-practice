@@ -1,1 +1,3 @@
 # pr-practice
+
+_ LOS PASOS PARAR DESPLEGAR LA APP EN IOS SON: 
